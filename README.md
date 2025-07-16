@@ -45,6 +45,7 @@ Untuk membuat project baru, ketik npx create-expo-app jamsholatku
 setelah terinstall, masuk ke folder project baru tersebut, jalankan aplikasinya dengan mengetik npx expo start.
 Jika sudah berhasil akan muncul QR code, scan menggunakan HP, pastikan sudah terinstall aplikasi ExpoGO, jangan lupa untuk login terlebih dahulu
 
+
 ## 🧾 Visual Studio code
 Buka file yang sudah dibuat tadi melalui menu File-Open Folder, akan muncul folder dan file template
 
@@ -72,7 +73,6 @@ Halaman Settings Screen, berisi pengaturan aplikasi, antara lain pengaturan meto
 ## 🔍 Preview / Simulasi Aplikasi
 Preview aplikasi dilakukan melalui Aplikasi Expo Go. Gunakan 'expo go' untuk preview cepat, atau 'expo run:android' untuk tes fitur yang butuh akses langsung ke hardware atau build secara native
 
-
 ## 🛠 Build Aplikasi
 Lakukan konfigurasi, gunakan '-eas build:configure' 
 Kemudian untuk build aplikasinya, gunakan 'eas build --platform android'
@@ -81,3 +81,6 @@ cari profil preview (atau development).Tambahkan baris "android.buildType": "apk
 
 ## 📲Download dan Install
 Setelah proses build selesai, akan muncul tautan di terminal. Buka tautan tersebut di browser, lalu download file .apk yang sudah jadi. Pindahkan file tersebut ke perangkat Android, kemudian instal.
+
+## 🔗Link JamSholat.APK
+https://drive.google.com/drive/folders/1PKc5b3206LcJXVhauXH65nvfVz8fp-cA?usp=sharing
