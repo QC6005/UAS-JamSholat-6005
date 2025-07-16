@@ -32,7 +32,7 @@ Fitur utama meliputi:
 
 Tampilan sederhana, ramah pengguna, dan fokus pada fungsionalitas utama umat Muslim dalam menjalani ibadah harian.
 
-Aplikasi ini dibuat untuk memenuhi UAS Mata Kuliah Pemrograman Aplikasi Mobile (QORIDANI CHOIRUNNISAA / 24.01.53.6005)
+Aplikasi ini dibuat untuk memenuhi UAS Mata Kuliah Pemrograman Aplikasi Mobile
 
 
 ## ✏️ Memulai
@@ -89,7 +89,7 @@ Untuk menghasilkan file.apk agar dapat diinstal langsung (tidak perlu lewat play
 cari profil preview (atau development).Tambahkan baris "android.buildType": "apk"
 
 ## 📲Download dan Install
-Setelah proses build selesai, akan muncul tautan di terminal. Buka tautan tersebut di browser, lalu download file .apk yang sudah jadi. Pindahkan file tersebut ke perangkat Android, kemudian instal.
+Setelah proses build selesai, akan muncul tautan di terminal. Buka tautan tersebut di browser, lalu download file .apk yang sudah jadi. Pindahkan file tersebut ke perangkat Android, kemudian install
 
 ## 🔗Link JamSholat.APK
 https://drive.google.com/drive/folders/1PKc5b3206LcJXVhauXH65nvfVz8fp-cA?usp=sharing
