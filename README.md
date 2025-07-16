@@ -49,13 +49,13 @@ Jika sudah berhasil akan muncul QR code, scan menggunakan HP, pastikan sudah ter
 ## 🧾 Visual Studio code
 Buka file yang sudah dibuat tadi melalui menu File-Open Folder, akan muncul folder dan file template
 
-###🗂️ File app/_layout.js
+### 🗂️ File app/_layout.js
 Layout berisi entry point utama. Ktika mebuka aplikasi akan muncul splash screen, hingga font selesai dimuat, setelah siap, baru masuk ke halaman utama.
 
-###🗂️ File app/_layout.js
+### 🗂️ File app/_layout.js
 Layout tab navigasi, letaknya dibawah, ada 2 tab: home & settings. Tab yang aktif berwarna kuning, yang tidak berwarna abu.
 
-###🗂️ File app/(tabs)/index.js
+### 🗂️ File app/(tabs)/index.js
 Home Screen / halaman pertama ketika apps dibuka
 Menampilkan informasi utama yaitu:
 🕰️ Jam sekarang
@@ -66,7 +66,7 @@ Menampilkan informasi utama yaitu:
 
 Salah satu  fungsi digunakan yaitu (usePrayerData) ➜ ambil data waktu sholat berdasarkan lokasi
 
-###🗂️ File app/(tabs)/settings.js
+### 🗂️ File app/(tabs)/settings.js
 Halaman Settings Screen, berisi pengaturan aplikasi, antara lain pengaturan metode perhitungan waktu sholat, mazhab Asar, penyesuaian tanggal Hijriah, dan toggle alarm adzan. Data pengaturan disimpan dan dimuat dari penyimpanan lokal lewat fungsi `loadSettings` dan `saveSettings`.
 
 
