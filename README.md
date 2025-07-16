@@ -57,12 +57,19 @@ Layout tab navigasi, letaknya dibawah, ada 2 tab: home & settings. Tab yang akti
 
 ### 🗂️ File app/(tabs)/index.js
 Home Screen / halaman pertama ketika apps dibuka
+
 Menampilkan informasi utama yaitu:
+
 🕰️ Jam sekarang
+
 📉 Hitung mundur ke waktu sholat berikutnya
+
 📆 Tanggal Masehi & Hijriah
+
 📍 Lokasi pengguna
+
 🕌 Daftar waktu sholat
+
 
 Salah satu  fungsi digunakan yaitu (usePrayerData) ➜ ambil data waktu sholat berdasarkan lokasi
 
@@ -75,7 +82,9 @@ Preview aplikasi dilakukan melalui Aplikasi Expo Go. Gunakan 'expo go' untuk pre
 
 ## 🛠 Build Aplikasi
 Lakukan konfigurasi, gunakan '-eas build:configure' 
+
 Kemudian untuk build aplikasinya, gunakan 'eas build --platform android'
+
 Untuk menghasilkan file.apk agar dapat diinstal langsung (tidak perlu lewat playstore), perlu mengubah file eas.json.
 cari profil preview (atau development).Tambahkan baris "android.buildType": "apk"
 
